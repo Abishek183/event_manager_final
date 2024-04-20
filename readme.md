@@ -30,3 +30,7 @@ Its already fixed by the professor and no changes are required for that issue.
 
 ## Image in docker
 [link](docker_event.png)
+
+## What I learnt
+
+I gained valuable technical and collaborative skills. Technically, I deepened my understanding of REST APIs and enhanced my ability to document and test software thoroughly using tools like pytest. Working on specific issues demonstrated real-world problem-solving. Although the process had its frustrations, especially when debugging complex issues, the collaborative resolution of these problems made me understand the flow better. This assignment was instrumental in enhancing my technical prowess and understanding of the complexities involved in API development and software testing. The skills I've developed are crucial for my career advancement and have prepared me well for my future works.
