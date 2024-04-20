@@ -70,7 +70,7 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kaw393939/wis_club_api:${{ github.sha }} # Uses the Git SHA for tagging
+          tags: abishek183/event:${{ github.sha }} # Uses the Git SHA for tagging
           platforms: linux/amd64,linux/arm64 # Multi-platform support
           cache-from: type=registry,ref=abishek183/event:cache
           cache-to: type=inline,mode=max
